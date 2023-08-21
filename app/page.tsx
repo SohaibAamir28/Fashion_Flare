@@ -34,7 +34,7 @@ export default function HomePage() {
           <div className="flex flex-col space-y-10 mt-4 mb-16">
             <div className="flex sm:space-x-8 sm:flex-row flex-col">
               <div>
-                <h3 className="mb-1 font-medium text-lg">Before Innovative Fashion</h3>
+                <h3 className="mb-1 font-medium text-lg">After Innovative Fashion</h3>
                 <Image
                   alt="Original photo"
                   src="/before.jpg"
@@ -44,7 +44,7 @@ export default function HomePage() {
                 />
               </div>
               <div className="sm:mt-0 mt-8">
-                <h3 className="mb-1 font-medium text-lg">After Innovative Fashion</h3>
+                <h3 className="mb-1 font-medium text-lg">Before Innovative Fashion</h3>
                 <Image
                   alt="Virtual photo"
                   width={400}
