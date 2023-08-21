@@ -37,14 +37,14 @@ export default function HomePage() {
                 <h3 className="mb-1 font-medium text-lg">Before Innovative Fashion</h3>
                 <Image
                   alt="Original photo"
-                  src="/before.jpg"
+                  src="/after.jpg"
                   className="w-full object-cover h-96 rounded-2xl"
                   width={400}
                   height={400}
                 />
               </div>
               <div className="sm:mt-0 mt-8">
-                <h3 className="mb-1 font-medium text-lg">Before Innovative Fashion</h3>
+                <h3 className="mb-1 font-medium text-lg">After Innovative Fashion</h3>
                 <Image
                   alt="Virtual photo"
                   width={400}
